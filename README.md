@@ -1,6 +1,6 @@
 ## HTML, github pages and a touch of css.
 
-This repository contains the final project of html. It contains a main page [index.html](https://github.com/konstantinosy/html-css-page/blob/main/index.html) which links to four (2) other pages:
+This repository contains the final project of html. It contains a main page [index.html](https://github.com/konstantinosy/html-css-page/blob/main/index.html) which links to two (2) other pages:
 
 * [birthday-invite.html](https://github.com/konstantinosy/html-css-page/blob/main/public/birthday-invite.html) (A simple page featuring a birthday invitation),
 
